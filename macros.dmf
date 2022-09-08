@@ -1,0 +1,53 @@
+macro 
+	elem 
+		name = "Space"
+		command = "Resist\nCrawl-Through-Vent"
+	elem 
+		name = "CTRL+A"
+		command = "westfaceperm"
+	elem 
+		name = "B"
+		command = "Toggle-burst-fire-mode"
+	elem 
+		name = "C"
+		command = "unique-action"
+	elem 
+		name = "CTRL+D"
+		command = "eastfaceperm"
+	elem 
+		name = "F"
+		command = "Activate-Held-Object"
+	elem 
+		name = "J"
+		command = "use-rail-attachment"
+	elem 
+		name = "Q"
+		command = "Duck"
+	elem 
+		name = "ALT+Q"
+		command = "Say \"*medic\""
+	elem 
+		name = "CTRL+R"
+		command = "Toggle-High-Toss\n"
+	elem 
+		name = "SHIFT+R"
+		command = "Rest"
+	elem 
+		name = "CTRL+S"
+		command = "southfaceperm"
+	elem 
+		name = "SHIFT+T"
+		command = "LOOC \""
+	elem 
+		name = "V"
+		command = "use-attachment"
+	elem 
+		name = "CTRL+W"
+		command = "northfaceperm"
+	elem 
+		name = "`"
+		command = "Hive-Status\nToggle-Gun-Safety"
+	elem 
+		name = "ALT+`"
+		command = "Show-Held-Item"
+
